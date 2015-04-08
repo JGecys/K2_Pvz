@@ -1,0 +1,5 @@
+Audi, A6, 1800
+Volvo, V70, 1850
+Toyota,	Avensis, 2000
+Volkswagen, Gold 3, 950
+Peugeot, 307, 1200
